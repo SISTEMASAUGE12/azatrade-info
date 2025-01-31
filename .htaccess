@@ -1,0 +1,15 @@
+# Habilitar mod_rewrite
+RewriteEngine On
+
+# Definir la base del sitio (importante para que funcione en la raíz del dominio)
+RewriteBase /
+
+# Asegurar que el archivo solicitado no exista antes de agregar .php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Redirigir URLs sin extensión a su versión .php
+RewriteRule ^([^/.]+)$ $1.php [L,QSA]
+
+# Asegurar que "/" cargue index.php automáticamente
+DirectoryIndex index.php
