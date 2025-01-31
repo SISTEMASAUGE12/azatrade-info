@@ -1,1 +1,22 @@
 
+# Habilitar mod_rewrite
+RewriteEngine On
+
+# Asegurar que el archivo solicitado no exista antes de agregar .php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Si el usuario solicita "pagina", redirigir a "pagina.php"
+RewriteRule ^([^./]+)$ $1.php [L,QSA]
+
+# Forzar HTTPS para asegurar que siempre use SSL
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+# Redirigir sin "www" a "www"
+RewriteCond %{HTTP_HOST} ^azatrade\.com [NC]
+RewriteRule ^(.*)$ https://www.azatrade.com/$1 [R=301,L]
+
+# Eliminar "index.php" de las URLs
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9} /(.*)index\.php HTTP/
+RewriteRule ^(.*)index\.php$ /$1 [R=301,L]
