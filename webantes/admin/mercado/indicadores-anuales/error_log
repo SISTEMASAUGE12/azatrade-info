@@ -1,0 +1,9 @@
+[24-Feb-2019 21:23:34 America/Lima] PHP Warning:  Division by zero in /home/azatrade/public_html/mercado/indicadores-anuales/index.php on line 1091
+[24-Feb-2019 21:23:34 America/Lima] PHP Warning:  Division by zero in /home/azatrade/public_html/mercado/indicadores-anuales/index.php on line 1091
+[07-Apr-2019 12:33:09 America/Lima] PHP Warning:  Division by zero in /home/azatrade/public_html/mercado/indicadores-anuales/index.php on line 1099
+[07-Apr-2019 12:33:09 America/Lima] PHP Warning:  Division by zero in /home/azatrade/public_html/mercado/indicadores-anuales/index.php on line 1099
+[07-Apr-2019 13:13:08 America/Lima] PHP Warning:  Division by zero in /home/azatrade/public_html/mercado/indicadores-anuales/index.php on line 1099
+[07-Apr-2019 13:13:08 America/Lima] PHP Warning:  Division by zero in /home/azatrade/public_html/mercado/indicadores-anuales/index.php on line 1099
+[14-Apr-2019 22:57:31 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php55/sess_bklr18hru8nrpi4ki4dskkm521, O_RDWR) failed: Permission denied (13) in /home/azatrade/public_html/mercado/indicadores-anuales/index.php on line 2
+[14-Apr-2019 18:06:54 America/Lima] PHP Warning:  Division by zero in /home/azatrade/public_html/mercado/indicadores-anuales/index.php on line 1099
+[14-Apr-2019 18:06:54 America/Lima] PHP Warning:  Division by zero in /home/azatrade/public_html/mercado/indicadores-anuales/index.php on line 1099

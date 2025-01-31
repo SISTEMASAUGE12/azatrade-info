@@ -1,0 +1,2 @@
+[05-Mar-2019 03:54:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/azatrade/public_html/partida/indicador-mensual/index.php on line 368
+[05-Mar-2019 03:54:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/azatrade/public_html/partida/indicador-mensual/index.php on line 368

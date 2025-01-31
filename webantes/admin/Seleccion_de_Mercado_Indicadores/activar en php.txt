@@ -1,0 +1,6 @@
+activar en php.ini:
+
+register_globals = Off
+ cambiamos por
+
+register_globals = On

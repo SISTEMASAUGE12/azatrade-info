@@ -1,0 +1,10 @@
+[03-Apr-2019 19:30:48 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/azatrade/public_html/importacion/menusuperior.php on line 6
+[04-Apr-2019 20:34:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2048 bytes) in /home/azatrade/public_html/importacion/descarga_excel.php on line 339
+[04-Apr-2019 22:07:02 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2048 bytes) in /home/azatrade/public_html/importacion/descarga_excel.php on line 339
+[07-Apr-2019 18:25:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2048 bytes) in /home/azatrade/public_html/importacion/descarga_excel.php on line 339
+[07-Apr-2019 18:37:51 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2048 bytes) in /home/azatrade/public_html/importacion/descarga_excel.php on line 339
+[07-Apr-2019 18:45:58 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/azatrade/public_html/importacion/menusuperior.php on line 6
+[07-Apr-2019 18:53:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/azatrade/public_html/importacion/descarga_excel.php on line 339
+[14-Apr-2019 08:38:10 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/azatrade/public_html/importacion/menusuperior.php on line 6
+[17-Apr-2019 02:52:43 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/azatrade/public_html/importacion/menusuperior.php on line 6
+[17-Apr-2019 11:59:54 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/azatrade/public_html/importacion/menusuperior.php on line 6

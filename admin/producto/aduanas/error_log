@@ -1,0 +1,2 @@
+[05-Sep-2023 20:52:13 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/producto/aduanas/procesa.php on line 84
+[05-Sep-2023 20:52:13 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/producto/aduanas/procesa.php on line 308

@@ -1,0 +1,2 @@
+[05-Mar-2019 22:36:55 America/Lima] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/azatrade/public_html/departamentos/indicador-anual-una-variable/index.php on line 483
+[05-Mar-2019 22:59:31 America/Lima] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/azatrade/public_html/departamentos/indicador-anual-una-variable/index.php on line 483

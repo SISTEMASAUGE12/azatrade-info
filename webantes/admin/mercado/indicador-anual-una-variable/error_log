@@ -1,0 +1,2 @@
+[14-Apr-2019 22:57:42 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php55/sess_bklr18hru8nrpi4ki4dskkm521, O_RDWR) failed: Permission denied (13) in /home/azatrade/public_html/mercado/indicador-anual-una-variable/index.php on line 2
+[11-Aug-2022 01:19:59 America/Lima] PHP Warning:  Division by zero in /home/augeperu/public_html/azatrade.info/mercado/indicador-anual-una-variable/index.php on line 666

@@ -1,0 +1,10 @@
+[28-Jun-2022 21:54:21 America/Lima] PHP Warning:  Division by zero in /home/augeperu/public_html/azatrade.info/demo/dashboard-export/partidasql/partidaindicaanual.php on line 1046
+[28-Jun-2022 21:54:21 America/Lima] PHP Warning:  Division by zero in /home/augeperu/public_html/azatrade.info/demo/dashboard-export/partidasql/partidaindicaanual.php on line 1051
+[28-Jun-2022 21:54:23 America/Lima] PHP Warning:  Division by zero in /home/augeperu/public_html/azatrade.info/demo/dashboard-export/partidasql/partidaindicaanual.php on line 1471
+[28-Jun-2022 21:54:23 America/Lima] PHP Warning:  Division by zero in /home/augeperu/public_html/azatrade.info/demo/dashboard-export/partidasql/partidaindicaanual.php on line 1476
+[28-Jun-2022 21:54:25 America/Lima] PHP Warning:  Division by zero in /home/augeperu/public_html/azatrade.info/demo/dashboard-export/partidasql/partidaindicaanual.php on line 1615
+[17-Feb-2023 19:25:27 America/Lima] PHP Warning:  Division by zero in /home/augeperu/public_html/azatrade.info/admin/demo/dashboard-export/partidasql/partidaindicaanual.php on line 1046
+[17-Feb-2023 19:25:27 America/Lima] PHP Warning:  Division by zero in /home/augeperu/public_html/azatrade.info/admin/demo/dashboard-export/partidasql/partidaindicaanual.php on line 1051
+[17-Feb-2023 19:25:30 America/Lima] PHP Warning:  Division by zero in /home/augeperu/public_html/azatrade.info/admin/demo/dashboard-export/partidasql/partidaindicaanual.php on line 1471
+[17-Feb-2023 19:25:30 America/Lima] PHP Warning:  Division by zero in /home/augeperu/public_html/azatrade.info/admin/demo/dashboard-export/partidasql/partidaindicaanual.php on line 1476
+[17-Feb-2023 19:25:32 America/Lima] PHP Warning:  Division by zero in /home/augeperu/public_html/azatrade.info/admin/demo/dashboard-export/partidasql/partidaindicaanual.php on line 1615

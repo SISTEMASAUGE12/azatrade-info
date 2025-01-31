@@ -1,0 +1,14 @@
+[01-Jul-2022 10:05:56 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/producto/agenteaduanas/procesa.php on line 85
+[01-Jul-2022 10:05:56 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/producto/agenteaduanas/procesa.php on line 309
+[06-Jul-2022 08:55:49 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/producto/agenteaduanas/procesa.php on line 85
+[06-Jul-2022 08:55:49 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/producto/agenteaduanas/procesa.php on line 309
+[18-Jul-2022 19:59:26 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/producto/agenteaduanas/procesa.php on line 85
+[18-Jul-2022 19:59:26 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/producto/agenteaduanas/procesa.php on line 309
+[26-Aug-2022 21:25:50 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/producto/agenteaduanas/procesa.php on line 85
+[26-Aug-2022 21:25:50 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/producto/agenteaduanas/procesa.php on line 309
+[26-Aug-2022 21:26:21 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/producto/agenteaduanas/procesa.php on line 85
+[26-Aug-2022 21:26:21 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/producto/agenteaduanas/procesa.php on line 309
+[10-Dec-2022 08:41:58 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/producto/agenteaduanas/procesa.php on line 85
+[10-Dec-2022 08:41:58 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/producto/agenteaduanas/procesa.php on line 309
+[09-Apr-2023 03:24:47 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/producto/agenteaduanas/procesa.php on line 85
+[09-Apr-2023 03:24:47 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/producto/agenteaduanas/procesa.php on line 309

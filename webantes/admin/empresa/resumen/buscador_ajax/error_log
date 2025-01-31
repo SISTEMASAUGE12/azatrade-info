@@ -1,0 +1,26 @@
+
+[31-Mar-2019 05:42:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 52
+[31-Mar-2019 05:53:32 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 15
+[31-Mar-2019 05:53:32 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 52
+[31-Mar-2019 05:53:32 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 15
+[31-Mar-2019 05:53:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 52
+[31-Mar-2019 05:53:33 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 15
+[31-Mar-2019 05:53:33 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 15
+[31-Mar-2019 05:53:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 52
+[31-Mar-2019 05:53:33 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 52
+[31-Mar-2019 05:53:39 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 15
+[31-Mar-2019 05:53:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 52
+[31-Mar-2019 05:53:41 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 15
+[31-Mar-2019 05:53:41 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 52
+[31-Mar-2019 05:53:52 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/azatrade/public_html/empresa/resumen/buscador_ajax/buscador.php on line 19
+[31-Mar-2019 05:53:52 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/azatrade/public_html/empresa/resumen/buscador_ajax/buscador.php on line 74
+[31-Mar-2019 05:53:56 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/azatrade/public_html/empresa/resumen/buscador_ajax/buscador.php on line 19
+[31-Mar-2019 05:53:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/azatrade/public_html/empresa/resumen/buscador_ajax/buscador.php on line 74
+[31-Mar-2019 05:57:43 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 15
+[31-Mar-2019 05:58:41 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 15
+[31-Mar-2019 05:58:41 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 15
+[31-Mar-2019 05:58:41 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 15
+[31-Mar-2019 05:58:42 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 15
+[31-Mar-2019 05:58:50 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/azatrade/public_html/empresa/resumen/buscador_ajax/buscador.php on line 19
+[31-Mar-2019 05:58:53 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/azatrade/public_html/empresa/resumen/buscador_ajax/buscador.php on line 19
+[31-Mar-2019 05:58:58 UTC] PHP Deprecated:  Function eregi() is deprecated in /home/azatrade/public_html/empresa/resumen/buscador_ajax/busqueda.php on line 15

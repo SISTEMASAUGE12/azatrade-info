@@ -1,0 +1,2 @@
+[31-Mar-2019 16:13:35 America/Lima] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/azatrade/public_html/empresa/indicador-anual-una-variable/index.php on line 482
+[27-Jun-2022 13:15:09 America/Lima] PHP Fatal error:  Call to a member function fetch_array() on integer in /home/augeperu/public_html/azatrade.info/empresa/indicador-anual-una-variable/index.php on line 483

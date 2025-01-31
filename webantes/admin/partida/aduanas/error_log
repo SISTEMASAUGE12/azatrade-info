@@ -1,0 +1,16 @@
+[01-Jul-2022 07:36:05 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/aduanas/procesa.php on line 88
+[01-Jul-2022 07:36:06 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/aduanas/procesa.php on line 302
+[01-Jul-2022 07:38:35 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/aduanas/procesa.php on line 88
+[01-Jul-2022 07:38:35 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/aduanas/procesa.php on line 302
+[01-Jul-2022 08:47:03 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/aduanas/procesa.php on line 88
+[01-Jul-2022 08:47:03 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/aduanas/procesa.php on line 302
+[01-Jul-2022 09:57:18 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/aduanas/procesa.php on line 88
+[01-Jul-2022 09:57:18 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/aduanas/procesa.php on line 302
+[01-Oct-2022 22:41:28 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/aduanas/procesa.php on line 88
+[01-Oct-2022 22:41:28 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/aduanas/procesa.php on line 302
+[16-Oct-2022 22:06:15 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/aduanas/procesa.php on line 88
+[16-Oct-2022 22:06:15 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/aduanas/procesa.php on line 302
+[22-Feb-2023 18:31:26 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/aduanas/procesa.php on line 88
+[22-Feb-2023 18:31:26 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/aduanas/procesa.php on line 302
+[09-Apr-2023 03:26:40 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/aduanas/procesa.php on line 88
+[09-Apr-2023 03:26:40 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/aduanas/procesa.php on line 302

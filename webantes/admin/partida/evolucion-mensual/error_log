@@ -1,0 +1,22 @@
+[02-Mar-2019 20:32:41 UTC] PHP Fatal error:  Call to undefined function pg_query() in /home/azatrade/public_html/partida/evolucion-mensual/index.php on line 170
+[17-Apr-2019 02:00:42 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php55/sess_danve1ml666ds9pqfpkgq2q0t0, O_RDWR) failed: Permission denied (13) in /home/azatrade/public_html/partida/evolucion-mensual/index.php on line 2
+[29-Jun-2022 20:59:39 UTC] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/evolucion-mensual/procesa.php on line 203
+[29-Jun-2022 20:59:39 UTC] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/evolucion-mensual/procesa.php on line 239
+[01-Jul-2022 08:43:19 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/evolucion-mensual/procesa.php on line 203
+[01-Jul-2022 08:43:19 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/evolucion-mensual/procesa.php on line 239
+[11-Jul-2022 18:38:47 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/evolucion-mensual/procesa.php on line 203
+[11-Jul-2022 18:38:47 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/evolucion-mensual/procesa.php on line 239
+[31-Jul-2022 18:36:04 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/evolucion-mensual/procesa.php on line 203
+[31-Jul-2022 18:36:04 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/evolucion-mensual/procesa.php on line 239
+[03-Sep-2022 23:37:57 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/evolucion-mensual/procesa.php on line 203
+[03-Sep-2022 23:37:57 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/evolucion-mensual/procesa.php on line 239
+[20-Oct-2022 17:08:07 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/evolucion-mensual/procesa.php on line 203
+[20-Oct-2022 17:08:07 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/evolucion-mensual/procesa.php on line 239
+[20-Oct-2022 17:08:30 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/evolucion-mensual/procesa.php on line 203
+[20-Oct-2022 17:08:30 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/evolucion-mensual/procesa.php on line 239
+[16-Mar-2023 13:40:10 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/evolucion-mensual/procesa.php on line 203
+[16-Mar-2023 13:40:10 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/evolucion-mensual/procesa.php on line 239
+[09-Apr-2023 03:31:00 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/evolucion-mensual/procesa.php on line 203
+[09-Apr-2023 03:31:00 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/evolucion-mensual/procesa.php on line 239
+[12-Apr-2023 12:05:36 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/evolucion-mensual/procesa.php on line 203
+[12-Apr-2023 12:05:36 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/evolucion-mensual/procesa.php on line 239

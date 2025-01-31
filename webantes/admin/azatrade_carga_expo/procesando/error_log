@@ -1,0 +1,5 @@
+[07-Feb-2019 13:07:34 America/Lima] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1024 bytes) in /home/azabusiness/public_html/azatrade_carga_expo/procesando/index.php on line 82
+[08-Feb-2019 00:46:40 America/Lima] PHP Fatal error:  Call to undefined function int() in /home/azabusiness/public_html/azatrade_carga_expo/procesando/index.php on line 152
+[08-Feb-2019 01:00:54 America/Lima] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/azabusiness/public_html/azatrade_carga_expo/procesando/index.php on line 181
+[08-Feb-2019 02:28:22 America/Lima] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 79 bytes) in /home/azabusiness/public_html/azatrade_carga_expo/procesando/index.php on line 117
+[08-Feb-2019 02:31:55 America/Lima] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 80 bytes) in /home/azabusiness/public_html/azatrade_carga_expo/procesando/index.php on line 117

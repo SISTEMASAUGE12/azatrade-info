@@ -1,0 +1,37 @@
+[03-Mar-2019 16:34:39 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, string given in /home/azatrade/public_html/partida/departamentos/index.php on line 203
+[04-Mar-2019 16:10:13 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, string given in /home/azatrade/public_html/partida/departamentos/index.php on line 203
+[22-Mar-2019 01:36:38 UTC] PHP Warning:  mysqli::query(): Empty query in /home/azatrade/public_html/partida/departamentos/index.php on line 162
+[22-Mar-2019 01:36:38 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, string given in /home/azatrade/public_html/partida/departamentos/index.php on line 211
+[25-Mar-2019 00:35:23 UTC] PHP Warning:  mysqli::query(): Empty query in /home/azatrade/public_html/partida/departamentos/index.php on line 162
+[25-Mar-2019 00:35:23 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, string given in /home/azatrade/public_html/partida/departamentos/index.php on line 211
+[06-Apr-2019 11:09:53 UTC] PHP Warning:  mysqli::query(): Empty query in /home/azatrade/public_html/partida/departamentos/index.php on line 162
+[06-Apr-2019 11:09:53 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, string given in /home/azatrade/public_html/partida/departamentos/index.php on line 211
+[14-Apr-2019 02:03:38 UTC] PHP Warning:  mysqli::query(): Empty query in /home/azatrade/public_html/partida/departamentos/index.php on line 162
+[14-Apr-2019 02:03:38 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, string given in /home/azatrade/public_html/partida/departamentos/index.php on line 211
+[01-Jul-2022 08:51:16 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/departamentos/procesa.php on line 84
+[01-Jul-2022 08:51:16 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/departamentos/procesa.php on line 132
+[01-Jul-2022 08:51:16 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/departamentos/procesa.php on line 364
+[19-Aug-2022 16:03:21 America/Chicago] PHP Warning:  Division by zero in /home/augeperu/public_html/azatrade.info/partida/departamentos/procesa.php on line 103
+[20-Aug-2022 23:31:10 America/Chicago] PHP Warning:  Division by zero in /home/augeperu/public_html/azatrade.info/partida/departamentos/procesa.php on line 103
+[06-Sep-2022 11:03:03 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/departamentos/procesa.php on line 84
+[06-Sep-2022 11:03:03 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/departamentos/procesa.php on line 132
+[06-Sep-2022 11:03:03 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/departamentos/procesa.php on line 364
+[17-Sep-2022 17:12:35 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/departamentos/procesa.php on line 84
+[17-Sep-2022 17:12:35 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/departamentos/procesa.php on line 132
+[17-Sep-2022 17:12:35 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/partida/departamentos/procesa.php on line 364
+[26-Oct-2022 13:12:43 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/departamentos/procesa.php on line 84
+[26-Oct-2022 13:12:43 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/departamentos/procesa.php on line 132
+[26-Oct-2022 13:12:43 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/departamentos/procesa.php on line 364
+[06-Jan-2023 14:06:52 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/departamentos/procesa.php on line 84
+[06-Jan-2023 14:06:52 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/departamentos/procesa.php on line 132
+[06-Jan-2023 14:06:52 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/departamentos/procesa.php on line 364
+[06-Jan-2023 14:23:20 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/departamentos/procesa.php on line 84
+[06-Jan-2023 14:23:20 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/departamentos/procesa.php on line 132
+[06-Jan-2023 14:23:20 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/departamentos/procesa.php on line 364
+[06-Jan-2023 14:25:56 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/departamentos/procesa.php on line 84
+[06-Jan-2023 14:25:56 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/departamentos/procesa.php on line 132
+[06-Jan-2023 14:25:56 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/departamentos/procesa.php on line 364
+[24-Feb-2023 11:21:35 America/Chicago] PHP Warning:  Division by zero in /home/augeperu/public_html/azatrade.info/admin/partida/departamentos/procesa.php on line 103
+[23-Mar-2023 16:30:25 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/departamentos/procesa.php on line 84
+[23-Mar-2023 16:30:25 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/departamentos/procesa.php on line 132
+[23-Mar-2023 16:30:25 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/partida/departamentos/procesa.php on line 364

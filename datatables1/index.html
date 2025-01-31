@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Datatables Ajax</title>
+	<!-- INCLUIR LAS LIBRERIAS -->
+	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="datatables/datatables.min.css">
+	<script type="text/javascript" src="jquery.min.js"></script>
+</head>
+<body>
+
+<br>
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+
+<h1>Mostrar Datos Datatables y Ajax</h1>
+	<!-- CREAR UNA TABLA PARA MOSTRAR LOS DATOS -->
+			<table class="table table-responsive table-bordered" id="mytable">
+				<thead>
+
+				<td>Id</td>
+				<th>Nombre</th>
+				<th>Telefono</th>
+				<th>Creacion</th>
+			</thead>
+<tr>
+	<td>0</td>
+	<td>Agustin</td>
+	<td>123</td>
+	<td>2222-22-22 22:22:00</td>
+</tr>
+
+		</table>
+		</div>
+	</div>
+</div>
+
+	<!-- SCRIPT PARA ACTIVAR EL PLUGIN DATATABLES -->
+<script type="text/javascript" >
+	
+	$(document).ready(function(){
+		$("#mytable").DataTable({
+			ajax: "loaddata.php"
+		});
+	});
+</script>
+	<!-- INCLUIR LAS LIBRERIAS QUE FALTAN -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script type="text/javascript" src="datatables/datatables.min.js"></script>
+</body>
+</html>

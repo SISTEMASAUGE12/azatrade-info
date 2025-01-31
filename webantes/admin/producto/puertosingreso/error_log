@@ -1,0 +1,9 @@
+[01-Nov-2022 23:12:28 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/producto/puertosingreso/procesa.php on line 85
+[01-Nov-2022 23:12:29 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/producto/puertosingreso/procesa.php on line 309
+[26-Nov-2022 20:38:36 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/producto/puertosingreso/procesa.php on line 85
+[26-Nov-2022 20:38:36 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/producto/puertosingreso/procesa.php on line 309
+[07-Dec-2022 14:32:05 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/producto/puertosingreso/procesa.php on line 85
+[07-Dec-2022 14:32:05 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/producto/puertosingreso/procesa.php on line 309
+[06-Mar-2023 14:28:28 America/Chicago] PHP Warning:  Division by zero in /home/augeperu/public_html/azatrade.info/admin/producto/puertosingreso/procesa.php on line 232
+[02-Apr-2023 19:35:09 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/producto/puertosingreso/procesa.php on line 85
+[02-Apr-2023 19:35:09 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home/augeperu/public_html/azatrade.info/admin/producto/puertosingreso/procesa.php on line 309

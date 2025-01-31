@@ -1,0 +1,6 @@
+[11-Mar-2019 02:07:43 UTC] Error Unknown column 'wp_' in 'field list' de la base de datos de WordPress para la consulta SELECT wp_
+[09-Dec-2019 23:33:56 UTC] PHP Fatal error:  Call to undefined function register_block_type() in /home/azatrade/public_html/noticias/wp-content/plugins/pdf-poster/gutenblock/index.php on line 10
+[09-Dec-2019 23:34:00 UTC] PHP Fatal error:  Call to undefined function register_block_type() in /home/azatrade/public_html/noticias/wp-content/plugins/pdf-poster/gutenblock/index.php on line 10
+[09-Dec-2019 23:34:09 UTC] PHP Fatal error:  Call to undefined function register_block_type() in /home/azatrade/public_html/noticias/wp-content/plugins/pdf-poster/gutenblock/index.php on line 10
+[09-Dec-2019 23:34:24 UTC] PHP Fatal error:  Call to undefined function register_block_type() in /home/azatrade/public_html/noticias/wp-content/plugins/pdf-poster/gutenblock/index.php on line 10
+[09-Dec-2019 23:35:21 UTC] PHP Fatal error:  Call to undefined function register_block_type() in /home/azatrade/public_html/noticias/wp-content/plugins/pdf-poster/gutenblock/index.php on line 10

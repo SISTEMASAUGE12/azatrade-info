@@ -1,0 +1,379 @@
+# Translation of Plugins - Google Doc Embedder - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Google Doc Embedder - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-31 08:08:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Google Doc Embedder - Development (trunk)\n"
+
+#. Author of the plugin/theme
+msgid "Kevin Davis"
+msgstr "Kevin Davis"
+
+#: gviewer.php:180
+msgid "File name is empty"
+msgstr "El nombre del archivo está vacío"
+
+#: libs/tab-advanced.php:86
+msgid "Track events in Google Analytics (Note: does not support the latest Universal Analytics)"
+msgstr "Seguimiento de eventos en Google Analytics (Nota: no es compatible con el último Universal Analytics)"
+
+#. Description of the plugin/theme
+msgid "Lets you embed PDF, MS Office, TIFF, and many other file types in a web page using the Google Docs Viewer (no Flash or PDF browser plug-ins required)."
+msgstr "Te permite incrustar archivos PDF, MS Office, TIFF y muchos otros tipos de archivos en una página web usando el visor de Google Docs (no se necesitan plugins Flash o PDF para el navegador)."
+
+#. #-#-#-#-#  google-document-embedder-code.pot (Google Doc Embedder 2.6.4) 
+#. #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  google-document-embedder-code.pot (Google Doc Embedder 2.6.4) 
+#. #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://wordpress.org/plugins/google-document-embedder/"
+msgstr "https://es.wordpress.org/plugins/google-document-embedder/"
+
+#. Plugin Name of the plugin/theme
+msgid "Google Doc Embedder"
+msgstr "Google Doc Embedder"
+
+#: options.php:81 options.php:83
+msgid "Settings <strong>updated</strong>."
+msgstr "La configuración <strong>ha sido actualizada</strong>."
+
+#: options.php:59
+msgid "Unable to enable diagnostic logging."
+msgstr "No ha sido posible activar el registro de diagnóstico."
+
+#: options.php:22
+msgid "Unable to update profile."
+msgstr "No se ha podido actualizar el perfil."
+
+#: options.php:20
+msgid "Default profile <strong>updated</strong>."
+msgstr "El perfil por defecto <strong>ha sido actualizado</strong>."
+
+#: options.php:211
+msgid "Help"
+msgstr "Ayuda"
+
+#: libs/tab-advanced.php:108
+msgid "Document Filename"
+msgstr "Nombre de fichero del documento"
+
+#: libs/tab-advanced.php:107
+msgid "Document URL"
+msgstr "URL del documento"
+
+#: libs/tab-advanced.php:103
+msgid "Label"
+msgstr "Etiqueta"
+
+#: libs/tab-advanced.php:95
+msgid "Category"
+msgstr "Categoría"
+
+#: libs/tab-advanced.php:88
+msgid "Disable Google Analytics integration"
+msgstr "Desactivar la integración con Google Analytics"
+
+#: libs/tab-advanced.php:87
+msgid "Track events using older GDE format (< 2.5)"
+msgstr "Rastrear los eventos utilizando el formato antiguo de GDE (versiones anteriores a la 2.5)"
+
+#: libs/tab-advanced.php:87
+msgid "Enabled (Compatibility Mode)"
+msgstr "Activado (modo de compatibilidad)"
+
+#: libs/tab-advanced.php:86
+msgid "Enabled"
+msgstr "Activado"
+
+#: libs/tab-advanced.php:82
+msgid "Event Tracking"
+msgstr "Rastreo de eventos"
+
+#: libs/tab-advanced.php:77
+msgid "More Info"
+msgstr "Más información"
+
+#: libs/tab-advanced.php:76
+msgid "To use Google Analytics integration, the GA tracking code must already be installed on your site."
+msgstr "Para utilizar integración con Google Analytics, el código de rastreo GA debe estar ya instalado en tu sitio."
+
+#: libs/tab-advanced.php:74
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: libs/tab-advanced.php:65
+msgid "Version Notifications"
+msgstr "Notificaciones de versión"
+
+#: libs/tab-advanced.php:59
+msgid "show log"
+msgstr "mostrar el registro"
+
+#: libs/tab-advanced.php:54
+msgid "clear log"
+msgstr "vaciar el registro"
+
+#: libs/tab-advanced.php:52
+msgid "Enable extended diagnostic logging"
+msgstr "Activar el registro de diagnóstico ampliado"
+
+#: libs/tab-advanced.php:50
+msgid "Enable extended diagnostic logging <em>(manually enabled)</em>"
+msgstr "Activar el registro de diagnóstico ampliado <em>(activado manualmente)</em>"
+
+#: libs/tab-advanced.php:48
+msgid "Check for errors before loading viewer"
+msgstr "Comprobar los errores antes de cargar el visor"
+
+#: libs/tab-advanced.php:47
+msgid "Show error messages inline (otherwise, they appear in HTML comments)"
+msgstr "Mostrar en línea los mensajes de error (de otro modo, aparecerán como comentarios HTML)"
+
+#: libs/tab-advanced.php:44
+msgid "Error Handling"
+msgstr "Control de errores"
+
+#: libs/tab-advanced.php:40
+msgid "Very large files (typically 8-12MB) aren't supported by Google Doc Viewer"
+msgstr "Los ficheros muy grandes (normalmente, entre 8 y 12 MB) no están soportados por el visor de Google Doc"
+
+#: libs/tab-advanced.php:34
+msgid "Maximum File Size"
+msgstr "Tamaño máximo de los ficheros"
+
+#: libs/tab-advanced.php:29
+msgid "Allow uploads of all supported media types"
+msgstr "Permitir subidas de todos los tipos de multimedia soportados"
+
+#: libs/tab-advanced.php:28
+msgid "Insert shortcode from Media Library by default"
+msgstr "Por defecto, insertar código abreviado desde la librería multimedia"
+
+#: libs/tab-advanced.php:27
+msgid "Disable all editor integration"
+msgstr "Desactivar la integración con los editores"
+
+#: libs/tab-advanced.php:24
+msgid "Editor Integration"
+msgstr "Integración con el editor"
+
+#: libs/tab-advanced.php:19
+msgid "Plugin Behavior"
+msgstr "Comportamiento del plugin"
+
+#: libs/lib-setup.php:106
+msgid "Dark-colored theme, example of custom CSS option"
+msgstr "Tema en colores oscuros, ejemplo de la opción de CSS personalizado"
+
+#: libs/lib-setup.php:81
+msgid "Hide document location and text selection, prevent downloads"
+msgstr "Ocultar la ubicación del documento y la selección de texto, evitar las descargar"
+
+#: libs/lib-setup.php:56
+msgid "This is the default profile, used when no profile is specified."
+msgstr "Este es el perfil por defecto, utilizado cuando no se especifica ningún perfil."
+
+#: libs/lib-profile.php:116 libs/tab-advanced.php:117
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: libs/lib-profile.php:107
+msgid "Below Viewer"
+msgstr "Por debajo del visor"
+
+#: libs/lib-profile.php:106
+msgid "Above Viewer"
+msgstr "Por encima del visor"
+
+#: libs/lib-profile.php:102
+msgid "Link Position"
+msgstr "Posición del enlace"
+
+#: libs/lib-profile.php:98
+msgid "file size"
+msgstr "tamaño del fichero"
+
+#: libs/lib-profile.php:97
+msgid "file type"
+msgstr "tipo de fichero"
+
+#: libs/lib-profile.php:96
+msgid "filename"
+msgstr "nombre del fichero"
+
+#: libs/lib-profile.php:95
+msgid "You can further customize text using these dynamic replacements:"
+msgstr "Puedes personalizar el texto mediante los siguientes códigos dinámicos:"
+
+#: libs/lib-profile.php:92
+msgid "Link Text"
+msgstr "Texto del enlace"
+
+#: libs/lib-profile.php:85
+msgid "Download link is not visible by default"
+msgstr "El enlace de descarga no es visible por defecto"
+
+#: libs/lib-profile.php:85 libs/tab-advanced.php:88
+msgid "None"
+msgstr "Ninguno"
+
+#: libs/lib-profile.php:84
+msgid "Download link visible to logged-in users"
+msgstr "Enlace de descarga visible para los usuarios que han iniciado sesión"
+
+#: libs/lib-profile.php:84
+msgid "Logged-in Users"
+msgstr "Usuarios que han iniciado sesión"
+
+#: libs/lib-profile.php:83
+msgid "Download link visible to everyone by default"
+msgstr "Por defecto, el enlace de descarga es visible para todo el mundo"
+
+#: libs/lib-profile.php:83
+msgid "All Users"
+msgstr "Todos los usuarios"
+
+#: libs/lib-profile.php:79
+msgid "Download Link"
+msgstr "Enlace de descarga"
+
+#: libs/lib-profile.php:75
+msgid "Any file not starting with <code>http</code> will be prefixed by this value"
+msgstr "Cualquier fichero que no comience con <code>http</code> será prefijado con este valor"
+
+#: libs/lib-profile.php:69
+msgid "File Base URL"
+msgstr "URL base para los ficheros"
+
+#: libs/lib-profile.php:65
+msgid "Enter as pixels or percentage (example: 500px or 100%)"
+msgstr "Introduce un valor en píxels o en porcentaje (ejemplo: 500px o 100%)"
+
+#: libs/lib-profile.php:54
+msgid "Default Size"
+msgstr "Tamaño por defecto"
+
+#: libs/lib-profile.php:50
+msgid "Language of toolbar button tips"
+msgstr "Idioma de los textos en los botones de la barra de herramientas"
+
+#: libs/lib-profile.php:38
+msgid "Default Language"
+msgstr "Idioma por defecto"
+
+#: libs/lib-profile.php:21
+msgid "Default Settings"
+msgstr "Configuración por defecto"
+
+#: libs/lib-setup.php:7
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes suficientes permisos para acceder a esta página."
+
+#: libs/lib-profile.php:56
+msgid "Width"
+msgstr "Ancho"
+
+#: libs/lib-profile.php:60
+msgid "Height"
+msgstr "Altura"
+
+#: gviewer.php:304
+msgid "Setup wasn't able to create the required database tables."
+msgstr "La configuración no ha podido crear las tablas de la base de datos necesarias."
+
+#: gviewer.php:87 gviewer.php:99
+msgid "Unable to load requested profile."
+msgstr "No se ha podido cargar el perfil solicitado."
+
+#: functions.php:369
+msgid "Error"
+msgstr "Error"
+
+#: functions.php:307 gviewer.php:225 libs/lib-setup.php:75
+#: libs/lib-setup.php:125
+msgid "Download"
+msgstr "Descargar"
+
+#: functions.php:233 libs/tab-advanced.php:38
+msgid "MB"
+msgstr "MB"
+
+#: functions.php:231
+msgid "Unknown"
+msgstr "Desconocido"
+
+#: functions.php:107
+msgid "Error retrieving file - if necessary turn off error checking"
+msgstr "Error al recuperar el fichero. Si es necesario, desactiva la comprobación de errores"
+
+#: functions.php:106
+msgid "Unable to determine file type from URL"
+msgstr "No ha sido posible determinar el tipo de archivo desde la URL"
+
+#: functions.php:105
+msgid "Unsupported File Type"
+msgstr "Tipo de fichero no soportado"
+
+#: functions.php:104
+msgid "Requested URL is invalid"
+msgstr "La URL solicitada no es válida"
+
+#: functions.php:103 gviewer.php:152
+msgid "File not specified, check shortcode syntax"
+msgstr "No se ha especificado un fichero; comprueba la sintaxis del código abreviado"
+
+#: functions-admin.php:453
+msgid "You are running a pre-release version of Google Doc Embedder. Please watch this space for important updates."
+msgstr "Estás ejecutando una versión de preproducción de Google Doc Embeddeer. Por favor, presta atención a este espacio para las noticias importantes."
+
+#: functions-admin.php:306
+msgid "Please include a shortcode or message to request support."
+msgstr "Por favor, incluye un código abreviado o un mensaje para solicitar soporte."
+
+#: functions-admin.php:304
+msgid "Any settings or duplicate profile names in this import will overwrite the current values."
+msgstr "Cualquier configuración, o bien los nombres de perfil duplicados en esta importación sobrescribirán los valores actuales."
+
+#: functions-admin.php:301
+msgid "Your profile list will be reset to its original state. All changes will be lost."
+msgstr "Tu lista de perfiles se restablecerá a su estado original. Todos los cambios se perderán."
+
+#: functions-admin.php:300
+msgid "Settings for this profile will overwrite the default profile."
+msgstr "La configuración de este perfil sobrescribirá el perfil por defecto."
+
+#: functions-admin.php:299 functions-admin.php:300 functions-admin.php:301
+#: functions-admin.php:304
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+#: functions-admin.php:299
+msgid "This profile will be permanently deleted."
+msgstr "Este perfil será borrado de forma permanente."
+
+#: functions-admin.php:264
+msgid "Version"
+msgstr "Versión"
+
+#: functions-admin.php:263
+msgid "plugin"
+msgstr "plugin"
+
+#: functions-admin.php:202
+msgid "You do not have sufficient permissions to access this page"
+msgstr "No tienes suficientes permisos para acceder a esta página"
+
+#: functions-admin.php:193 functions-admin.php:275 options.php:92
+msgid "Settings"
+msgstr "Ajustes"
+
+#: functions-admin.php:303
+msgid "Please select a valid export file to import."
+msgstr "Por favor, selecciona un fichero de exportación válido para importarlo."
