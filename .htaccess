@@ -6,8 +6,12 @@ RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
-# Si el usuario solicita "pagina", redirigir a "pagina.php"
+# Redirigir URLs sin extensión a su versión .php (excepto la raíz "/")
+RewriteCond %{REQUEST_URI} !^/$
 RewriteRule ^([^./]+)$ $1.php [L,QSA]
+
+# Forzar que "/" cargue index.php automáticamente
+DirectoryIndex index.php
 
 # Forzar HTTPS para asegurar que siempre use SSL
 RewriteCond %{HTTPS} !=on
@@ -18,5 +22,5 @@ RewriteCond %{HTTP_HOST} ^azatrade\.com [NC]
 RewriteRule ^(.*)$ https://www.azatrade.com/$1 [R=301,L]
 
 # Eliminar "index.php" de las URLs
-# RewriteCond %{THE_REQUEST} ^[A-Z]{3,9} /(.*)index\.php HTTP/
-# RewriteRule ^(.*)index\.php$ /$1 [R=301,L]
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9} /(.*)index\.php HTTP/
+RewriteRule ^(.*)index\.php$ /$1 [R=301,L]
