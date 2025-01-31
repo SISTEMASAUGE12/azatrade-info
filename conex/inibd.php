@@ -1,8 +1,8 @@
 <?php
 define('DB_HOST','localhost');
-define('DB_USER','augeperu_trade');
-define('DB_PASS','Sofia@@peru$2024');
-define('DB_NAME','augeperu_azatrade');
+define('DB_USER','azatrade2025_enero');
+define('DB_PASS','Azatrade@@2025_enero');
+define('DB_NAME','azatrade2025_enero');
 define('NUM_ITEMS_BY_PAGE',10);
 
 date_default_timezone_set("America/Lima");
