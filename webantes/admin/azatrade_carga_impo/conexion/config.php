@@ -1,8 +1,8 @@
 <?php
 $hostloca="localhost";
-$usuarioloca="augeperu_trade";
-$passwordloca="OYON5pPh1G-5";
-$dbloca="augeperu_azatrade";
+$usuarioloca="azatrade2025_enero";
+$passwordloca="Azatrade@@2025_enero";
+$dbloca="azatrade2025_enero";
 $linkaz = new mysqli($hostloca,$usuarioloca,$passwordloca,$dbloca);
 
 if($linkaz === false) { 

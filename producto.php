@@ -10,9 +10,9 @@ if (isset($_SESSION['login_usuario'])){
 $linkpage = 'https://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
 
 $hostloca="localhost";
-$usuarioloca="augeperu_trade";
-$passwordloca="OYON5pPh1G-5";
-$dbloca="augeperu_azatrade";
+$usuarioloca="azatrade2025_enero";
+$passwordloca="Azatrade@@2025_enero";
+$dbloca="azatrade2025_enero";
 $conexpg = new mysqli($hostloca,$usuarioloca,$passwordloca,$dbloca);
 $conexpg->query("SET NAMES 'utf8'");
 if($conexpg === false) { 

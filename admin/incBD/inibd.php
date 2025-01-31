@@ -1,8 +1,8 @@
 <?php
 $hostloca="localhost";
-$usuarioloca="augeperu_trade";
-$passwordloca="Sofia@@peru$2024";
-$dbloca="augeperu_azatrade";
+$usuarioloca="azatrade2025_enero";
+$passwordloca="Azatrade@@2025_enero";
+$dbloca="azatrade2025_enero";
 $conexpg = new mysqli($hostloca,$usuarioloca,$passwordloca,$dbloca);
 $conexpg->query("SET NAMES 'utf8'");
 if($conexpg === false) { 
